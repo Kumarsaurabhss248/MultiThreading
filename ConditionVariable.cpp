@@ -22,6 +22,7 @@
 // 1. Condition variable is used to synchronize two or more threads.
 // 2. Best use case of condition variable is Producer/Consumer problem.
 
+/*
 #include <iostream>
 #include <thread>
 #include <mutex>
@@ -71,7 +72,7 @@ int main() {
 	cout << myAmount << endl;
 	return 0;
 }
-
+*/
 #include <iostream>
 #include <thread>
 #include <mutex>
